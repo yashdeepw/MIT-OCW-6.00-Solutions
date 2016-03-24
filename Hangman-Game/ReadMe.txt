@@ -1,1 +1,1 @@
-Hangman game completely  made in python.
+Hangman game completely made in python.
