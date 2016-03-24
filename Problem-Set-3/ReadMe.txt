@@ -1,1 +1,1 @@
-Solution fro problem set 3
+Solution for problem set 3.
